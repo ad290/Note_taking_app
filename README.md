@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Notes App
 
 A simple MERN (MongoDB, Express.js, React, Node.js) notes app for managing your notes.
@@ -53,3 +54,6 @@ Before you begin, ensure you have met the following requirements:
     cd frontend
     npm run dev
     ```
+=======
+# Note_taking_app
+>>>>>>> 278cf471d3655cdb833d71341d81d05ef813c4b6
