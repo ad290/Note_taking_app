@@ -10,7 +10,7 @@ const get_all_notes = (req, res) => {
     .then((result) => {
       if (result.length > 0) {
         res.json({
-          msg: "All notes have been fetched successfully!",
+          msg: "All note have been fetched successfully!",
           content: result,
         });
       } else {
